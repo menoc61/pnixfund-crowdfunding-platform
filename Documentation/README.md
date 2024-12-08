@@ -56,10 +56,10 @@ This command will start the local development server. You can access the applica
 - **Analytics Dashboard**: Users can view statistics and analytics related to their campaigns.
 
 ## Contributing
-We welcome contributions to the PnixFund Crowdfunding Platform. Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information.
+We welcome contributions to the PnixFund Crowdfunding Platform. Please read our [Contributing Guidelines](../Files/main/CONTRIBUTING.md) for more information.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](../Files/main/LICENSE) file for details.
 
 ## Contact
 For any inquiries, please reach out to us at [gillemomeni@gmail.com](mailto:gillemomeni@gmail.com).
